@@ -8,6 +8,8 @@
  - [Vena](/journals#vena)
  - [Sam](/journals#sam)
  - [Hyacinth](/journals#hyacinth)
+ - [Koa](/journals#koa)
+ - [Joseph](/journals#joseph)
 
 ## June 2020
 
